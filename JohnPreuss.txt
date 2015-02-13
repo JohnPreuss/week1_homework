@@ -1,0 +1,5 @@
+Name: John
+Expectation: I am hoping to understand connecting databases and applications/websites, something like that
+Occupation: Job Hunter
+Interesting Fact: I have only seen snippets of the movie "Forest Gump"
+App Idea: Create an App that shows trade flows, exchange rates, interest rates, etc. between countries
