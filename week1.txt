@@ -1,4 +1,4 @@
-Labwork Part 2 - Git Practice
+commLabwork Part 2 - Git Practice
 
 Please check out a new branch "your_name".
 Fill out the information for the labwork.
